@@ -1,0 +1,91 @@
+#container {
+    text-decoration: none;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif
+}
+body {
+    background-color: lightgray;
+}
+.readme-wrapper {
+text-decoration: none;
+color: orange;
+}
+a:hover {
+    cursor: pointer;
+    font-weight: 700;
+    color: red;
+}
+span {
+    color: teal;
+    font-weight: 700;
+}
+.boxes {
+    text-align: center;
+    margin: auto;
+    padding: 20px 50px;
+    border-width: 5px;
+    border-style: double;
+    border-color: lightslategrey;
+    width: 30em;
+    display: block; 
+}
+#box1 {
+    background-color: lightsteelblue;
+}
+#box2 {
+    background-color: lightgreen;
+}
+#box3 {
+    background-color: lightseagreen;
+}
+#box4 {
+    background-color: lightskyblue;
+}
+.bunnies {
+    position: absolute;
+    left: 35em;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: darkmagenta;
+}
+h1 {
+    color: magenta;
+}
+.original {
+    color: green;
+}
+.additional {
+    color: purple;
+}
+#rank1 {
+    color: blue;
+}
+#rank2 {
+    color: rgb(68, 68, 250);
+}
+#rank3 {
+    color: rgb(106, 106, 255);
+}
+#rank4 {
+    color: rgb(166, 166, 255);
+}
+#rank5 {
+    color: rgb(185, 185, 250);
+}
+ul {
+    color: rgb(10, 170, 170);
+}
+.star {
+    color: rgba(235, 31, 31, 0.685);
+}
+#wars {
+    color: orangered;
+}
+.lists {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black
+}
