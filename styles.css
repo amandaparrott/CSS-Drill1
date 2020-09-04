@@ -3,7 +3,8 @@
 }
 
 body {
-    font-family: Verdana, Geneva, sans-serif
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
 }
 body {
     background-color: lightgray;
