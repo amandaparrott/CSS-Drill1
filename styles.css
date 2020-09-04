@@ -28,6 +28,7 @@ span {
     border-width: 5px;
     border-style: double;
     border-color: lightslategrey;
+    border-radius: 3em;
     width: 30em;
     display: block; 
 }
